@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    background-color: gray;
+    color: black;
+}
+.nome_completo {
+    font-size: 60px;
+}
+
+.posicao {
+    font-size: 45px;
+}
+
+.descricao {
+    font-size: 45px;
+}
+
+.nascimento {
+    font-size: 45px;
+}
+
+.altura_peso {
+    font-size: 45px;
+}
+
